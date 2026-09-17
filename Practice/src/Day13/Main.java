@@ -15,7 +15,7 @@ class Algebra {
 	}
 
 	int sub() {
-//	return p-q; //show error 
+//	return p-q; 									//show error 
 		return 0;
 	}
 
